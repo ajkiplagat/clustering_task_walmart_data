@@ -3,15 +3,15 @@ Clustering task implemented in python
 
 
 Walmart Data Dictionary: anonymized information about the 45 stores, indicating the type and size of store.
-●	Store - the store number
-●	Date - the week
-●	Weekly_Sales -  sales for the given store
-●	IsHoliday - whether the week is a special holiday week
-●	Temperature - average temperature in the region
-●	Fuel_Price - cost of fuel in the region
-●	CPI - the consumer price index
-●	Unemployment - the unemployment rate
-●	IsHoliday - whether the week is a special holiday week
+/●	Store - the store number
+/●	Date - the week
+/●	Weekly_Sales -  sales for the given store
+/●	IsHoliday - whether the week is a special holiday week
+/●	Temperature - average temperature in the region
+/●	Fuel_Price - cost of fuel in the region
+/●	CPI - the consumer price index
+/●	Unemployment - the unemployment rate
+/●	IsHoliday - whether the week is a special holiday week
 
 The four holidays fall within the following weeks in the dataset (not all holidays are in the data):
 Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13
